@@ -1,0 +1,36 @@
+body,*{
+	margin:0;
+	padding:0;
+}
+
+
+body {
+	margin-top: 54px;
+}
+#container {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFffff;
+	height: 627px;
+	width: 627px;
+
+}
+#footer {padding:12px 12px 12px 24px;position:absolute;bottom:0px;color:#333333;font-size:12px;font-family:Helvetica,sans-serif;text-align:left;}
+#footer a{color:#999999;text-decoration:none;} 
+#footer a:hover{text-decoration:underline;}
+#overlay {
+	position:absolute;
+	z-index:99;
+	border-style:none;
+
+}
+div {background-color:transparent;border-style:solid;border-width:2px;border-color:#ffffff;}
+#sub div {background-color:#b1aeac; }
+.bronze { background-color:#b8714e !important; }
+.gold { background-color:#c1af69 !important; }
+.silver { background-color:#b1aeac !important; }
+
+
+
+
